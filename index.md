@@ -1,9 +1,9 @@
-Hello World <br>
+Hello World
 
-Aniruddha Pathak  <br>
+Aniruddha Pathak
 
-Graduate Student <br>
+Graduate Student
 
-Department of Statistics <br>
+Department of Statistics
 
-Iowa State University  <br>
+Iowa State University
