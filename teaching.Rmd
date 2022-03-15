@@ -2,4 +2,6 @@
 title: "Teaching"
 ---
 
-Under Construction.
+### At Iowa State University
+* Lab Instructor for STAT 101 Fall 2021, STAT 326 Fall 2021.
+* Grader for STAT 231 Spring 2021, STAT 587 Summer 2021, STAT 322 Spring 2022, STAT 642 Spring 2022.

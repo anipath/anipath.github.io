@@ -8,6 +8,10 @@ title: "Welcome to My Website!"
 
 Hi! I am Aniruddha Pathak. I am a doctoral student in the [Department of Statistics](https://www.stat.iastate.edu/) at [Iowa State Univerisity](https://www.iastate.edu/). 
 
-I completed my masters degree in Statistics from [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) in 2020 and my bachelors degree with Statistics major from [Ramakrishna Mission Residential College (Autonomous), Narendrapur](https://rkmrc.in/), [University of Calcutta](https://www.caluniv.ac.in/) in 2018.
+Before joining ISU, I received my M.Sc. in Statistics from [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) in 2020 and my B.Sc.(Hons) in Statistics from [Ramakrishna Mission Residential College (Autonomous), Narendrapur](https://rkmrc.in/), [University of Calcutta](https://www.caluniv.ac.in/) in 2018.
 
-This is my [CV](./media/Aniruddha_Pathak_CV.pdf) (Updated in February 2022).
+My research interests include Statistical Classification, Clustering, Principal Component Analysis, Kernel Density Estimation.
+
+This is my [CV](./media/Aniruddha_Pathak_CV.pdf) (Last updated in February 2022).
+
+Email : anipath@iastate.edu
