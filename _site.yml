@@ -1,0 +1,8 @@
+name: "my-website"
+navbar:
+  title: "Aniruddha Pathak"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
