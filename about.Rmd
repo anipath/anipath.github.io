@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-This website belongs of Aniruddha Pathak
+This website belongs to Aniruddha Pathak.
