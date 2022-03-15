@@ -1,9 +1,11 @@
 ---
-title: "Aniruddha Pathak"
+title: "Welcome to My Website!"
 ---
 
-![Me](./media/A.jpg){#id .class width=50% height=50%}
+<p align="center">
+  <img width="25%" height="25%" src="./media/A.jpg">
+</p>
 
-# Welcome to My Website.
+Hi! I am Aniruddha Pathak. I am a graduate student in the Department of Statistics at Iowa State Univerisity. I am pursuing my PhD in Statistics.
 
-# Hi! I am Aniruddha Pathak. I am a gradute student in the Department of Statistics at Iowa State Univerisity. I am pursuing my PhD in Statistics.
+This is my [CV](./media/Aniruddha_Pathak_CV.pdf) (Updated in February 2022).
