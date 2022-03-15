@@ -2,5 +2,4 @@
 title: "About"
 ---
 
-![Me](./media/A.jpg)
-This website belongs to Aniruddha Pathak.
+Under Construction.
