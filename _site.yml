@@ -9,6 +9,6 @@ navbar:
     - text: "Teaching"
       href: teaching.html
     - text: "CV"
-      href: ./media/Aniruddha_Pathak_CV.pdf
+      href: ./media/APathak_CV.pdf
     - text: "Contact"
       href: contact.html

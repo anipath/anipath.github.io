@@ -12,6 +12,6 @@ Before joining ISU, I received my M.Sc. in Statistics from [Indian Institute of 
 
 My research interests include Statistical Classification, Clustering, Principal Component Analysis, Kernel Density Estimation.
 
-This is my [CV](./media/Aniruddha_Pathak_CV.pdf) (Last updated in February 2022).
+This is my [CV](./media/APathak_CV.pdf) (Last updated in February 2022).
 
 Email : anipath@iastate.edu, aniruddhapathak07@gmail.com
