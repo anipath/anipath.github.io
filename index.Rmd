@@ -6,7 +6,7 @@ title: "Welcome! Bienvenue! Willkommen!"
   <img width="25%" height="25%" src="./media/A.jpg">
 </p>
 
-Hi! I am Aniruddha Pathak. I am a doctoral student in the [Department of Statistics](https://www.stat.iastate.edu/) at [Iowa State Univerisity](https://www.iastate.edu/). 
+Hi! I am Aniruddha Pathak. I am a doctoral student in the [Department of Statistics](https://www.stat.iastate.edu/) at [Iowa State Univerisity](https://www.iastate.edu/). Currently I am working with [Prof. Somak Dutta](https://faculty.sites.iastate.edu/somakd/).
 
 Before joining ISU, I received my M.Sc. in Statistics from [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) in 2020 and my B.Sc.(Hons) in Statistics from [Ramakrishna Mission Residential College (Autonomous), Narendrapur](https://rkmrc.in/), [University of Calcutta](https://www.caluniv.ac.in/) in 2018.
 
