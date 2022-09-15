@@ -1,0 +1,24 @@
+---
+title: "Education"
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+-   **Doctor of Philosophy in Statistics** *[Aug 2020 - 2025(Expected)]*
+
+    Iowa State University, Ames, IA;
+
+    Advisor : Prof. Somak Dutta
+
+-   **Master of Science in Statistics** *[Aug 2018 - Jul 2020]*
+
+    Indian Institute of Technology, Kanpur, India
+
+-   **Bachelor of Science with Honors in Statistics** *[Jul 2015 - Jun
+    2018]*
+
+    Ramakrishna Mission Residential College, Narendrapur; University of
+    Calcutta; India
+
+    Minor Subjects : Mathematics, Computer Science
