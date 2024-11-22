@@ -1,5 +1,21 @@
 ---
-title: "Welcome to my website!"
+title: "Welcome! Bienvenue! Willkommen!"
 ---
 
-You're up and running!
+<p align="center">
+  <img width="25%" height="25%" src="A.jpg">
+</p>
+
+Hi! I am Aniruddha Pathak. I am a doctoral student in the [Department of Statistics](https://www.stat.iastate.edu/) at [Iowa State Univerisity](https://www.iastate.edu/). Currently I am working with [Prof. Somak Dutta](https://faculty.sites.iastate.edu/somakd/).
+
+Before joining ISU, I received my M.Sc. in Statistics from [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/) in 2020 and my B.Sc.(Hons) in Statistics from [Ramakrishna Mission Residential College (Autonomous), Narendrapur](https://rkmrc.in/), [University of Calcutta](https://www.caluniv.ac.in/) in 2018.
+
+During Summer 2019, I worked with [Prof. Saurabh Ghosh](https://www.isical.ac.in/~saurabh/), [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/) as part of the IASc-INSA-NASI Summer Research Fellowship Program 2019.
+
+My research interests include Hierarchical modeling, Bayesian Variable Selection, etc.
+
+Outside of research, I have a keen interest in trivia quizzes, History and Geopolitics.
+
+This is my [CV](APathak_CV.pdf) (Last updated in Nov 2024).
+
+Email : anipath@iastate.edu, aniruddhapathak07@gmail.com

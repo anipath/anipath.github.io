@@ -1,0 +1,7 @@
+---
+title: "Research"
+---
+
+-   PhD Research : Work in progress.
+
+-   M.Sc. Project : [Parsimonious Classification using Higher Order Markov Chains](181013_Aniruddha_Pathak_Project_Report%20.pdf) (Supervisor : [Prof. Subhajit Dutta](https://www.sites.google.com/site/tijahbus/home))
