@@ -16,6 +16,9 @@ navbar:
     - text: "Work Experience"
       icon: fa-briefcase
       href: work.html
+    - text: "Resume"
+      icon: fa-file
+      href: ./media/APathak_CV.pdf
     - text: "Contact"
       icon: fa-phone 
       href: contact.html
@@ -26,5 +29,5 @@ navbar:
       href: https://www.linkedin.com/in/aniruddha-pathak-a92701145/
 output:
   html_document:
-    theme: paper
-    highlight: textmate
+    theme: cerulean
+    highlight: default
