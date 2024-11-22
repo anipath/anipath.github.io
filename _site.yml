@@ -4,16 +4,16 @@ navbar:
   title: "Aniruddha Pathak"
   left:
     - text: "Home"
-      href: index.html
+      href: ./_site/index.html
     - text: "Education"
-      href: education.html
+      href: ./_site/education.html
     - text: "Research"
-      href: research.html
+      href: ./_site/research.html
     - text: "Work Experience"
-      href: work.html
+      href: ./_site/work.html
     - text: "CV"
       href: ./media/APathak_CV.pdf
     - text: "Contact"
-      href: contact.html
+      href: ./_site/contact.html
 
       
