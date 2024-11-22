@@ -9,8 +9,8 @@ navbar:
       href: ./_site/education.html
     - text: "Research"
       href: ./_site/research.html
-    - text: "Teaching"
-      href: ./_site/teaching.html
+    - text: "Work Experience"
+      href: ./_site/work.html
     - text: "CV"
       href: ./media/APathak_CV.pdf
     - text: "Contact"
